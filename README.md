@@ -1,6 +1,6 @@
 
 
-Un outil permettant la lecture du contenu de la pile d'un binaire sujet aux FSB.
+Outil permettant la lecture du contenu de la pile d'un binaire sujet aux FSB.
 
 Il est en cours d'écriture...
 
